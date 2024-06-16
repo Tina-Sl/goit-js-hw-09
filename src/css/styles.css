@@ -1,7 +1,7 @@
 @import url('./reset.css');
 /* @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap'); */
-/* @import url('./1-gallery.css'); */
-/* @import url('./2-form.css'); */
+@import url('./1-gallery.css');
+@import url('./2-form.css');
 
 body {
   margin: 16px;
@@ -10,7 +10,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #fafafa;
-  
+
   color: #212121;
   line-height: 1.5;
   font-family: 'Montserrat', sans-serif;
